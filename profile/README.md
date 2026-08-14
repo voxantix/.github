@@ -25,7 +25,7 @@ cross-platform <b>mobile apps</b> — from first prototype to production.
 
 <a href="https://voxantix.com"><img src="https://img.shields.io/badge/Website-012B64?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 &nbsp;
-<a href="https://linkedin.com/company/voxantix"><img src="https://img.shields.io/badge/LinkedIn-012B64?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/company/voxantix-technologies"><img src="https://img.shields.io/badge/LinkedIn-012B64?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:contact@voxantix.com"><img src="https://img.shields.io/badge/Contact-012B64?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
 
